@@ -2,6 +2,10 @@
 
 Design assets relating to the Wagtail brand – for merchandise, marketing, and more.
 
+## Logo
+
+![Wagtail logo with teal background](logo/wagtail-logo-teal.png)
+
 ## Color
 
 Wagtail marketing assets use a reduced palette (derived from a more comprehensive [colour system used in Wagtail CMS](https://docs.wagtail.org/en/stable/advanced_topics/customisation/admin_templates.html#id3)).
