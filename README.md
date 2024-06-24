@@ -14,6 +14,8 @@ Wagtail marketing assets use a reduced palette (derived from a more comprehensiv
 | Light Teal | `#B3E7E8` |                           |
 | Pink       | `#F9CBCE` |                           |
 
+![Wagtail color swatch](./.github/wagtail-color-swatch.svg)
+
 ## Typeface
 
 The master typeface for all Wagtail marketing (inc. wagtail.org) is [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans) (a free Google font). Note: the Wagtail CMS uses a different font stack.
